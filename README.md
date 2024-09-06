@@ -150,7 +150,11 @@ AI를 기반으로 한 미취학 아동 교육
 # 🐣 팀 구성
 
 ## 팀원
-<img src="./asset/팀원소개.JPG" alt="팀원 이미지" >
+| <a href="https://github.com/KimDohaAcc"><img src="https://github.com/KimDohaAcc.png" width="120"/></a> | <a href="https://github.com/Jiwon119"><img src="https://github.com/Jiwon119.png" width="120"/></a> | <a href="https://github.com/woori0214"><img src="https://github.com/woori0214.png" width="120"/></a> | <a href="https://github.com/LeeJE20"><img src="https://github.com/LeeJE20.png" width="120"/></a> | <a href="https://github.com/horororok"><img src="https://github.com/horororok.png" width="120"/></a> | <a href="https://github.com/hwasuk528"><img src="https://github.com/hwasuk528.png" width="120"/></a> |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| [KimDohaAcc](https://github.com/KimDohaAcc) | [Jiwon119](https://github.com/Jiwon119) | [woori0214](https://github.com/woori0214) | [LeeJE20](https://github.com/LeeJE20) | [horororok](https://github.com/horororok) | [hwasuk528](https://github.com/hwasuk528) |
+| 팀장, 백엔드 | 백엔드 | 백엔드 | 백엔드 | 프론트엔드 | 프론트엔드 |
+| 인프라 | 파이썬 서버 | 로깅, 인프라 | 스프링 시큐리티 | 프론트 팀장 | 소통 |
 
 <!-- <table>
   <tbody>
